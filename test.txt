@@ -1,4 +1,8 @@
 commit by usman at 1:30
 commit by slaman at 1:37
 
+<<<<<<< HEAD
 commit by salman at 1:40
+=======
+commit by usman at 1:40
+>>>>>>> d456809b71481a555c9a4e05abb31d89d9fc82ca
